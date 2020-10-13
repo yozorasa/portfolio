@@ -1,13 +1,15 @@
 # Real-Time Cloud Segmentation
 ###### tags: `portfolio`
 ---
-<p style="text-align: center; font-size: 22px">
-An End-to-End Single-Stage Model</br>
-with Multiple Masks and Coefficients</br>
-for Real-Time Cloud Segmentation of Satellite Images</br>
-</br>
-以具有多遮罩和多係數的端到端單階段模型</br> 
-進行衛星影像中的即時雲分割</br>
+<p align="center">  
+    </br> 
+    An End-to-End Single-Stage Model</br>
+    with Multiple Masks and Coefficients</br>
+    for Real-Time Cloud Segmentation of Satellite Images</br>
+    </br>
+    以具有多遮罩和多係數的端到端單階段模型</br> 
+    進行衛星影像中的即時雲分割</br>  
+    </br> 
 </p>
 
 ---
