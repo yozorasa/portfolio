@@ -1,11 +1,6 @@
 # 作品集
 ###### tags: `portfolio`
 
-<style>
-    .markdown-body{
-        max-width: 1200px;
-    }
-</style>
 
 ## Contents
 |Career|Project|Description|
