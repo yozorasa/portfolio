@@ -25,9 +25,9 @@ for Real-Time Cloud Segmentation of Satellite Images</br>
 ## Results
 
 ### Samples with high accuracy
-![Samples with high accuracy](https://github.com/yozorasa/portfolio/blob/feature/thesis/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20high%20accuracy.png?raw=true){:height="80%" width="80%"}
+![Samples with high accuracy](https://github.com/yozorasa/portfolio/blob/feature/thesis/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20high%20accuracy.png?raw=true width=80%)
 ### Samples with low accuracy
-![Samples with low accuracy](https://github.com/yozorasa/portfolio/blob/feature/thesis/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20low%20accuracy.png?raw=true){:height="80%" width="80%"}
+![Samples with low accuracy](https://github.com/yozorasa/portfolio/blob/feature/thesis/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20low%20accuracy.png?raw=true width=80%)
 
 
 ## Experimental Setup
