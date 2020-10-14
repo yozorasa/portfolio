@@ -1,4 +1,4 @@
-# Interview Timing Web System
+# Distance Education System
 ###### tags: `portfolio`
 ---
 <p align="center">  
@@ -12,7 +12,7 @@
 ---
 
 ## Contents
-- [Interview Timing Web System](#interview-timing-web-system)
+- [Distance Education System](#Distance Education System)
           + [tags: `portfolio`](#tags---portfolio-)
   * [Contents](#contents)
   * [Application](#application)
