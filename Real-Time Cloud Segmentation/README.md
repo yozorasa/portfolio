@@ -28,7 +28,8 @@
 
 ### Samples with high accuracy
 <img src="https://github.com/yozorasa/portfolio/blob/master/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20high%20accuracy.png?raw=true" width=80% />
-
+  
+---  
 ### Samples with low accuracy
 <img src="https://github.com/yozorasa/portfolio/blob/master/Real-Time%20Cloud%20Segmentation/images/Samples%20with%20low%20accuracy.png?raw=true" width=80% />
 
