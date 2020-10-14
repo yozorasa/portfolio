@@ -31,6 +31,6 @@ Arduino Uno板 + 麵包板，微處理器的Processing軟體設計。
   
 ## Screenshots
 ### (半完成)正面、近照、線路  
-<img src="https://github.com/yozorasa/portfolio/blob/feature/cajon/Cajon/images/box.png?raw=true" width=80% />  
+<img src="https://github.com/yozorasa/portfolio/blob/master/Cajon/images/box.png?raw=true" width=80% />  
   
 ---  
