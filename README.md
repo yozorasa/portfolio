@@ -10,4 +10,4 @@
 |大學|[Distance Education System](https://github.com/yozorasa/portfolio/tree/master/Distance%20Education%20System)|遠距教學平台|Dynamic web page|
 |大學|[Car Assist Tools](https://github.com/yozorasa/portfolio/tree/master/Car%20Assist%20Tools)|汽車助手|Android App|
 |大學|[Cajon](https://github.com/yozorasa/portfolio/tree/master/Cajon)|箱鼓|Arduino+Processing|
-|大學|[貪食蛇、俄羅斯輪盤]()|組合語言的動態小遊戲|
+|大學|[Games：Snake and Roulette](https://github.com/yozorasa/portfolio/tree/master/Games%EF%BC%9ASnake%20and%20Roulette)|小遊戲：貪食蛇 和 輪盤|Assembly Game|
